@@ -17,3 +17,4 @@ Notes: Due to storage restraints only some organisations can be updated at a tim
 
 ## OECD sector review
 
+OECD Sector Review 2.ipynb (the most recent version) uses the DAC-CRS-CODES.xlsx file as an input to categorise titles and descriptions to sector codes. It then analyses a set of projects and categorises them based on a matching algorithm. 
